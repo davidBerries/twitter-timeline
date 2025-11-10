@@ -1,0 +1,9 @@
+{
+  "max_posts_per_user": 50,
+  "concurrency": 5,
+  "output_path": "data/sample.json",
+  "ndjson": false,
+  "timeout_seconds": 20,
+  "proxy": null,
+  "nitter_base": "https://nitter.net"
+}
